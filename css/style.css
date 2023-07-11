@@ -1,0 +1,507 @@
+#header{
+height: 100px; 
+width: 100%; 
+background: #537543;
+}
+#p-1{
+width:30%; height: 100%; 
+background:;  
+float: left;
+}
+#p-1 img{
+margin-left: 70px; 
+margin-top: 15px;
+}
+#p-2{
+width: 50%;
+height: 100%; 
+background:; 
+float: left; 
+font-family: sans-serif; 
+text-transform: capitalize;
+}
+#p-2 #anc{
+float: left; 
+margin:45px 0px 0px 40px;  
+font-size: 18px; 
+text-transform: uppercase; 
+text-decoration: none; color:white;
+}
+#p-3{
+width: 20%; 
+height: 100%;
+background:; 
+float: left;
+}
+#p-3 #search{
+font-size: 30px; 
+margin:35px 40px 0px 30px; 
+float: left; color: white;
+}
+#bg-img{
+background: url('../pics/untitled-1.png'); 
+width: 100%; 
+height: 738px; 
+background-size: cover;
+padding-top: 70px; 
+box-sizing: border-box;
+}
+#resturant{
+width: 50%; 
+height: 500px; 
+background:; 
+padding-top: 60px; 
+box-sizing: border-box;
+}
+#resturant h1{
+font-size: 30px; 
+color: white; 
+text-align: center;
+text-transform: 
+capitalize; 
+font-family: Berkshire Swash; 
+letter-spacing: 1px;
+margin-left: 20px;
+}
+#resturant h2{
+font-size: 80px; 
+color: white; 
+text-align: center;
+text-transform: capitalize; 
+font-family: Berkshire Swash;
+}
+#resturant p{
+font-size: 13px; 
+color: white; 
+text-transform: ; 
+font-family: tahoma; 
+letter-spacing: 3px;
+margin:50px 145px; line-height: 20px;
+}
+#order-now{
+width: 200px; 
+height: 40px; 
+background:#e6ca48; 
+padding-top: 10px; 
+box-sizing: border-box;
+margin-top: 70px; 
+border-radius: 50px; 
+margin-left: 145px;
+}
+#order-now #anc{
+font-size: 20px; 
+text-transform: capitalize; 
+color: #537543; 
+text-decoration: 
+none; font-family: tahoma; 
+margin:0px 50px;
+}
+#ourfood-img{
+width: 100%; 
+height: 740px; 
+background: url('../pics/untitled-2.png'); 
+padding-top: 50px; 
+box-sizing: border-box;
+}
+#aboutfood{
+width: 40%; 
+height: 600px; 
+float: right; 
+background:;
+}
+#aboutfood h1{
+font-size: 50px; 
+margin-top: 70px; 
+color:#537543;
+text-transform: capitalize; 
+font-family: Berkshire Swash;
+}
+#aboutfood h2{
+font-size: 20px; 
+color:#537543;
+text-transform: 
+capitalize; font-family:; 
+letter-spacing: 1px;
+margin-left: 0px; 
+margin-top: 40px;
+}
+#aboutfood p{
+font-size: 13px; 
+color:#537543; 
+text-transform:; 
+font-family: Montserrat; 
+letter-spacing: ; 
+margin:50px 0px; 
+line-height: 20px;
+}
+#read-more{
+width: 200px; height: 40px; 
+background:white; 
+padding-top: 10px; 
+box-sizing: 
+border-box; 
+margin-top: 70px; 
+border-radius: 50px;
+}
+#read-more #arc{
+font-size: 20px; 
+text-transform: capitalize; 
+color: #537543; 
+text-decoration: none; 
+font-family: tahoma; 
+margin:0px 50px;
+}
+#services{
+background:#537543; 
+height: 450px; 
+color: white; 
+padding-left: 120px;
+}
+#ppp-1{
+width:25%; height: 400px; 
+float: left; 
+margin: 40px 0px 0px 40px; 
+border-radius: 5px;
+}
+#ppp-1 #icon{
+font-size: 100px; 
+margin:45px 40px 0px 100px;  
+color: #e6ca48;
+}
+#ppp-1 h1{
+text-align: center; 
+text-transform: uppercase; 
+margin-top: 30px; 
+font-size: 25px; 
+font-family: tahoma; 
+letter-spacing: 1px;
+}
+#ppp-1 h2{
+text-align: center; 
+text-transform: capitalize;
+margin-top: 30px; 
+font-size: 15px; 
+font-family: tahoma;
+line-height: 20px; 
+letter-spacing: 1px;
+}
+#chefs{
+width: 100%; 
+height: 1017px; 
+background: url('../pics/untitled-3.png');
+}
+#statistics{
+width: 100%; 
+height: 180px; 
+background:; 
+float: left; 
+margin-top: 150px;
+}
+#statistics h1{
+font-size: 70px; 
+text-transform: capitalize; 
+color:#ffc200; 
+text-align: center; 
+font-family:Berkshire Swash; 
+letter-spacing: 0px; 
+margin-top: 20px; 
+text-align: center;
+}
+#statistics h2{
+font-size: 15px; 
+text-transform: capitalize; 
+color:white; margin: 20px 170px; 
+font-family:Montserrat;  
+letter-spacing:1px; 
+text-align: center;
+}
+#main-body{
+width: 100%; 
+height: 500px; 
+background:; 
+float: left;
+}
+#main-card{
+width: 20%; 
+height: 100%; 
+background:; 
+margin-left: 125px; 
+float: left;
+}
+#c-1{
+height: 75%; 
+width: 100%; 
+background: ; 
+margin: 0px 0px;
+}
+#c-1 img{
+ margin-top: 0px; 
+ float: left; 
+ border-radius: 20px 20px 0px 0px;
+}
+#border{
+width: 100%; 
+height:25%; 
+background: #5e844c; 
+padding: 40px 0px; 
+box-sizing: border-box; 
+border-radius: 0px 0px 20px 20px;
+box-shadow:5px 10px 15px black;
+}
+#border h1{
+font-size: 25px; 
+text-transform: capitalize; 
+color: white; 
+text-align: center; 
+font-family:tahoma; 
+letter-spacing: 0px;
+}
+#border h2{
+font-size: 12px; 
+text-transform:
+capitalize; 
+color:white; 
+margin: 10px 0px; 
+font-family:Montserrat;  
+letter-spacing:1px; 
+text-align: center;
+}
+#d-food{
+width: 100%; 
+height: 600px; 
+background: #dd982c;
+}
+#side-1{
+width: 50%; 
+height:100%; 
+background:;
+float: left; 
+padding-top: 130px; 
+box-sizing: border-box;
+}
+#food-img{
+width: 467px; 
+height: 350px; 
+background: url('../pics/food.png'); 
+box-shadow: 2px 7px 15px 1px black; 
+border-radius: 20px; 
+margin: 0 auto;"
+}
+#side-2{
+width: 50%; 
+height:100%; 
+background:;
+float: left; 
+padding-left: 50px; 
+box-sizing: border-box;
+}
+#aboutfoodd{
+width: 100%; 
+height: 350px; 
+float: right; 
+background:; 
+padding-top: 60px; 
+box-sizing: border-box;
+}
+#aboutfoodd h1{
+font-size: 30px; 
+margin-top: 70px; 
+color:white;
+text-transform: capitalize; 
+font-family: tahoma;
+}
+#aboutfoodd p{
+font-size: 13px; 
+color:white; 
+text-transform: ; 
+font-family: Montserrat; 
+letter-spacing: ; 
+margin:50px 0px; 
+line-height: 20px;
+}
+#bg-design{
+width: 100%; 
+height: 425px; 
+background: url('../pics/design.png');
+}
+#our-menu{
+width: 100%; 
+height: 180px;
+background:; 
+float: left; 
+margin-top: 90px;
+}
+#our-menu h1{
+font-size: 70px; 
+text-transform: capitalize; 
+color:#537942; 
+text-align: center; 
+font-family:Berkshire Swash; 
+letter-spacing: 0px; 
+margin-top: 20px; 
+text-align: center;
+}
+#our-menu h2{
+font-size: 22px; 
+text-transform: capitalize; 
+color:#537942; 
+margin: 40px 170px; 
+font-family:Poppins;  
+letter-spacing:1px; 
+text-align: center;
+}
+#our-menu h3{
+font-size: 17px; 
+text-transform: capitalize; 
+color:#537942; 
+margin: 50px 170px; 
+font-family:Poppins;  
+letter-spacing:1px; 
+text-align: center;
+}
+#recipies{
+width: 100%; 
+height: 1000px; 
+background: url('../pics/menu.png');
+}
+#recipies #repp-1{
+width: 50%; 
+height: 300px; 
+background: ; 
+float: left; 
+padding-top: 65px; 
+box-sizing: border-box;"
+}
+#repp-1 h1{
+font-size: 22px; 
+text-transform: capitalize; 
+color:white; 
+margin-right: 140px; 
+font-family:Poppins;  
+letter-spacing:1px;
+float: right;
+}
+#repp-1 h2{
+font-size: 35px;
+text-transform: capitalize; 
+color:white; 
+margin: 20px 230px; 
+font-family:Poppins;  
+letter-spacing:1px; 
+float: right; 
+margin-right: 230px;
+}
+#repp-1 h3{
+font-size: 14px; 
+text-transform: capitalize; 
+color:white; margin-right: 108px; 
+font-family:Poppins;  
+letter-spacing:1px; 
+float: right;
+}
+#follow{
+padding-top: 60px;
+box-sizing:border-box; 
+height: 150px; 
+background-color:;
+}
+#follow h1{
+font-size: 70px; 
+text-transform: capitalize; 
+color: #537942; 
+text-align: center; 
+font-family: Berkshire Swash; 
+font-weight: bold; 
+letter-spacing: 2px;
+}
+#box-3{
+padding-top: 80px;
+box-sizing:border-box; 
+height: 150px; 
+letter-spacing: 1px;
+line-height: 20px; 
+background-color:;
+}
+#box-3 h1{
+font-size: 20px; 
+text-transform: capitalize; 
+color:#537942; 
+text-align: center; 
+font-family: tahoma;
+}
+#searchh{
+width: 500px; 
+background-color: green; 
+height: 50px; 
+margin: 60px 380px;
+}
+#btn{
+width: 142px; 
+height: 50px; 
+background-color:#e6ca48;  
+float: right;"
+}
+#btn h1{
+text-align: center;
+text-transform: capitalize; 
+margin: 13px 0px; 
+font-size: 25px; 
+font-family: tahoma; 
+color: white;
+}
+    #footer{
+    width: 100%; 
+    height: 400px; 
+    background-color:#303030;
+    }
+    #box-1{
+    width: 40%;
+    height: 100%; 
+    background-color:; 
+    float: left;
+    }
+    #box-1 h1{
+    font-size: 25px; 
+    text-transform:uppercase; 
+    font-family:tahoma; 
+    font-weight: bold; 
+    margin:50px 50px; 
+    color: white;
+    }
+    #box-1 h2{
+    font-size: 15px; 
+    text-transform: capitalize; 
+    color: white; font-family: tahoma; 
+    margin:50px 50px; 
+    line-height: 20px; 
+    letter-spacing: 2px;
+    }
+    #social-icons{
+    font-size: 30px; 
+    margin:45px 40px 0px 50px;  
+    color: white; 
+    float: left;
+    }
+    #box-2{
+    width: 20%; 
+    height: 100%; 
+    background-color:; 
+    float: left;
+    }
+    #box-2 h1{
+    font-size: 25px; 
+    text-transform:uppercase; 
+    font-family:tahoma; 
+    font-weight: bold; 
+    margin:50px 20px; 
+    color: white;
+    }
+    #box-2 h2{
+    margin:0px 20px; 
+    line-height: 40px; 
+    text-transform: capitalize; 
+    font-family: tahoma; 
+    color: white;
+    }
+
+
